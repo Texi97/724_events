@@ -1,4 +1,5 @@
 # 724 Events 👩🏻‍💻
+En cours
 
 ## Description
 L'application est le site d'une agence evenementielle.
@@ -13,6 +14,10 @@ Vous devrez également compléter le cahier de recette. Ce document détaillera 
 Pour la gestion du projet, vous utiliserez Yarn comme gestionnaire de packages et Node.js pour exécuter du code JavaScript côté serveur. Ces outils vous aideront à gérer les dépendances et à exécuter des tests localement.
 Enfin, vous versionnerez votre travail avec GitHub et utiliserez Visual Studio Code comme éditeur de code pour développer et débugger le site.
 
+## Objectifs pédagogiques
+- Débugger un site web grâce aux Chrome DevTools
+- Rédiger un cahier de recette pour tester un site
+  
 ## Pre-requis
 - NodeJS  >= v16.14.1
 
