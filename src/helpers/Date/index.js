@@ -13,4 +13,8 @@ export const MONTHS = {
   12: "décembre",
 };
 
-export const getMonth = (date) => MONTHS[date.getMonth()];
+export const getMonth = (date) => MONTHS[date.getMonth() + 1];
+// export const getMonth = (periode) => {
+//   const [day, month] = periode.split("-");
+//   return MONTHS[month];
+// };
