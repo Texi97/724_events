@@ -14,8 +14,3 @@ export const MONTHS = {
 };
 
 export const getMonth = (date) => MONTHS[date.getMonth() + 1];
-// export const getMonth = (periode) => {
-//   const month = periode.split(" ");
-// convertir mois en chiffre
-//   return MONTHS[month[1]];
-// };
