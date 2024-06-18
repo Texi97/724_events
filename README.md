@@ -1,7 +1,5 @@
 # 724 Events 👩🏻‍💻
 
-En cours
-
 ## Description
 
 L'application est le site d'une agence evenementielle.
